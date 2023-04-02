@@ -1,0 +1,12 @@
+.toprow{
+    
+    
+}
+.product{
+    border: 2px solid red;
+    width: 80%;
+    margin: 20px auto;
+    flex-direction: row;}
+.pc{
+    border: 2px solid green;
+}
