@@ -63,14 +63,15 @@
 textarea:focus, input:focus{
     outline: none;
 }
-/* @media only screen and (max-width: 765px){
+@media only screen and (max-width: 765px){
     .form{
-        margin-top: 2rem;
+        margin: 10px auto;
         height: 100%;
         display: flex;
         flex-direction: column;
         align-content: center;
+        justify-content: center;
     }
     
 
-} */
+}
